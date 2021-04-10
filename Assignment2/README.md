@@ -1,6 +1,6 @@
 
 ## CPSC 319 Assignment 2 - An only slightly confused number and symbol sorter
-### By: Athena McNeil-Roberts    athena.mcneilrobe1@ucalgary.ca
+### By: Athena McNeil-Roberts
 
 ### Description
 
