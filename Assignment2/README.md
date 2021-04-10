@@ -10,6 +10,6 @@ In addition to the usual ordering on natural numbers, there are specified requir
 ### Installation and Running
 
 In Terminal or Command Prompt
-  1. In the console, direct to the folder containing source files using cd <filepath>
+  1. In the console, direct to the folder containing source files using cd < filepath >
   2. To compile, use command --> javac *.java
-  3. To run, use command --> java Input <inputFileName> <outputFileName>
+  3. To run, use command --> java Input < inputFileName > < outputFileName >
