@@ -1,14 +1,14 @@
 
-# CPSC 319 Assignment 1 - Confused Stack
-## By: Athena McNeil-Roberts   athena.mcneilrobe1@ucalgary.ca
+## CPSC 319 Assignment 1 - Confused Stack
+### By: Athena McNeil-Roberts   athena.mcneilrobe1@ucalgary.ca
 
-## Description
+### Description
 
 The task your system has to perform is to implement a stack of natural numbers.
 In general, the operations push, pop, and top should behave as normal for a stack,
 with specified exceptions.
 
-## Installation and Running
+### Installation and Running
 
 In Terminal or Command Prompt
   1.  In the console, direct to the folder containing source files using cd <filepath>
