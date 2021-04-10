@@ -1,6 +1,6 @@
 
 ## CPSC 319 Assignment 1 - Confused Stack
-### By: Athena McNeil-Roberts   athena.mcneilrobe1@ucalgary.ca
+### By: Athena McNeil-Roberts
 
 ### Description
 
