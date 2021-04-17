@@ -1,4 +1,4 @@
-
+// Created by: Athena McNeil-Roberts
 
 /**
 * Class representing a ternary tree. root is a Node, levelNodes is an array of Strings,
